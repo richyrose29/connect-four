@@ -6,7 +6,7 @@ function playGame() {
     var player1Color = 'red';
 
     while (!player2) {
-        var player2 = prompt('Player Two: Enter your name. You will be yellow.');
+        var player2 = prompt('Player Two: Enter your name. You will be blue.');
     };
     var player2Color = 'blue';
 
